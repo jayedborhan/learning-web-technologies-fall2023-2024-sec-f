@@ -30,9 +30,9 @@
 
                     
                        
-                        setcookie('flag', 'asif', time()+300, '/');
+                        setcookie('flag', 'borhan', time()+300, '/');
                     
-                        header('location: createspecification.php');
+                        header('location: admin_home.php');
                   
                     
                    
